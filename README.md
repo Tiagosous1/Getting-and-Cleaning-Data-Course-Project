@@ -17,9 +17,11 @@ Original Dataset ->  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfile
 # Files
 
 > codebook.md
+
 A codebook that modifies and updates the available codebooks with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information.
 
 > run_analysis.R
+
 The script was written using R 4.2.2 under Windows 11.
 
 It performs 5 tasks successively:
