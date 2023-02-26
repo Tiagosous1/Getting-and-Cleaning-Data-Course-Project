@@ -36,3 +36,7 @@ It performs 5 tasks successively:
 4 - Appropriately labels the data set with descriptive variable names.
 
 5 - Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+> tidy_data.txt
+
+Is the exported final data after going through all the sequences described above.
